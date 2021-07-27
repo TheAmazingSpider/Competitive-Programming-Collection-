@@ -6,4 +6,4 @@ There will be major problem sets (such as String/Array, Graph, Search, Data Stru
 There will also be README files that contains brief explaination for each problem.
 
 ## String
-* **Longest substring without repetition**
+* [**Longest substring without repetition**](https://github.com/TheAmazingSpider/Competitive-Programming-Collection-/tree/main/LongestSubstrwithoutrep)
