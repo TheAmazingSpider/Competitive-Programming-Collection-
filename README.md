@@ -7,3 +7,9 @@ There will also be README files that contains brief explaination for each proble
 
 ## String
 * [**Longest substring without repetition**](https://github.com/TheAmazingSpider/Competitive-Programming-Collection-/tree/main/LongestSubstrwithoutrep)
+
+## Array
+
+## Linked List
+
+## Stacked/Queue
